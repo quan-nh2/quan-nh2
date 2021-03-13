@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quan-nh2" alt="quan-nh2" /></a> </p>
 
-- 🌱 I’m currently learning **Phoenix**
+- 🌱 I’m currently looking for something funny
 
 - 📫 How to reach me **nhquan.fit.hcmus@gmail.com**
 
